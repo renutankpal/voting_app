@@ -1,9 +1,9 @@
 [
     {
-        "name": "Ravi Kumar",
+        "name": "Rahul Kumar",
         "age": 30,
         "mobile": "9876543210",
-        "email": "ravi@example.com",
+        "email": "rahul@example.com",
         "address": "123, ABC Street, XYZ City",
         "aadharCardNumber": 123456789012,
         "password": "password123"
